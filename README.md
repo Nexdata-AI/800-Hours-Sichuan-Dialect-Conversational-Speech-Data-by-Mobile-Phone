@@ -1,0 +1,30 @@
+# 800-Hours-Sichuan-Dialect-Conversational-Speech-Data-by-Mobile-Phone
+
+https://www.datatang.ai/datasets/1065
+
+## Description
+1730 Sichuan native speakers participated in the recording and face-to-face free talking in a natural way in wide fields without the topic specified. It is natural and fluency in speech, and in line with the actual dialogue scene. We transcribed the speech into text manually to ensure high accuracy.
+
+## Format
+16kHz, 16bit, uncompressed wav, mono channel
+
+## Recording environments
+quiet indoor environment, without echo
+
+## Recording content
+no topic is specified, and the speakers make dialogue while the recording is performed
+
+## Demographics
+1,730 people, 74% of which are female; 88% of 1,730 people are not more than 25 years old; people are from Sichuan or Chongqing
+
+## Annotations
+annotating for the transcription text, speaker identification and gender
+
+## Device
+Android mobile phone, iPhone
+
+## Language
+Sichuan dialect
+
+## Applications
+speech recognition,  voiceprint recognition.
