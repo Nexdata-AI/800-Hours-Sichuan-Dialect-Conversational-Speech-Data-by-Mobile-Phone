@@ -1,9 +1,10 @@
 # 800-Hours-Sichuan-Dialect-Conversational-Speech-Data-by-Mobile-Phone
 
-https://www.datatang.ai/datasets/1065
 
 ## Description
 1730 Sichuan native speakers participated in the recording and face-to-face free talking in a natural way in wide fields without the topic specified. It is natural and fluency in speech, and in line with the actual dialogue scene. We transcribed the speech into text manually to ensure high accuracy.
+
+For more details, please refer to the link: https://bit.ly/3UBWsEK
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -28,3 +29,6 @@ Sichuan dialect
 
 ## Applications
 speech recognition,  voiceprint recognition.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
