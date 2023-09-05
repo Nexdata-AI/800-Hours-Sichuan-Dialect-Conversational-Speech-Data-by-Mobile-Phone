@@ -4,7 +4,7 @@
 ## Description
 1730 Sichuan native speakers participated in the recording and face-to-face free talking in a natural way in wide fields without the topic specified. It is natural and fluency in speech, and in line with the actual dialogue scene. We transcribed the speech into text manually to ensure high accuracy.
 
-For more details, please refer to the link: https://bit.ly/3UQNtzN
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1065?source=Github
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
